@@ -1,11 +1,11 @@
 {
-  "name": "obs-websocket-js",
+  "name": "@openspaceproject/obs-websocket-js",
   "version": "3.1.0",
-  "description": "OBS Websocket API in Javascript, consumes @Palakis/obs-websocket",
-  "author": "Brendan Hagan (haganbmj)",
+  "description": "Fork of obs-websocket-js using isomorphic-ws.",
+  "author": "OpenSpace Team",
   "license": "MIT",
-  "repository": "haganbmj/obs-websocket-js",
-  "repoUrl": "https://github.com/haganbmj/obs-websocket-js",
+  "repository": "OpenSpace/obs-websocket-js",
+  "repoUrl": "https://github.com/OpenSpace/obs-websocket-js",
   "keywords": [
     "obs",
     "studio",

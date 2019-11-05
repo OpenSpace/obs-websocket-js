@@ -1,3 +1,6 @@
+This package is a fork of the obs-websocket-js package, with license below.
+This fork may be used in any way that is compatible with the license of
+obs-websocket-js:
 
 The MIT License (MIT)
 
